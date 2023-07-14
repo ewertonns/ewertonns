@@ -1,1 +1,1 @@
-🌱 I’m currently learning HTML, CSS, Javascript, node, reaact.
+🌱 I’m currently learning HTML, CSS, Javascript, Node, React.
